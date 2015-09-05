@@ -1,0 +1,17 @@
+{
+  "name": "rotten-encryption",
+  "version": "1.0.0",
+  "description": "Encodes/decodes text using a Caesar Shift (or ROT-n) cipher.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": { 
+    "type" : "git",
+    "url" : "https://github.com/zachflower/rotten-encryption.git"
+  },
+  "bugs": "https://github.com/zachflower/rotten-encryption/issues",
+  "author": "Zachary Flower <zach@zacharyflower.com> (http://zacharyflower.com)",
+  "license": "WTFPL",
+  "preferGlobal": true,
+  "engine": "node >= 0.12.7"
+}
